@@ -30,19 +30,7 @@
                 >Lives</RouterLink
               >
             </li>
-            <li class="nav-item">
-              <RouterLink
-                class="nav-link green"
-                aria-current="page"
-                to="/skills"
-                >Skills</RouterLink
-              >
-            </li>
-            <li class="nav-item">
-              <RouterLink class="nav-link green" aria-current="page" to="/about"
-                >About</RouterLink
-              >
-            </li>
+            
           </ul>
           <form class="d-flex" role="search">
             <input
